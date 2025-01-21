@@ -175,6 +175,4 @@ The Workbook is ready to use!
 - Click on _'Workbooks'_
 - Click on _'Azure App Service Insights'_ Workbook.
 
-Start using the Workbook and analyze your Azure App Service resources.<br/>
 
-> (Optional) You can filter by specific subscription/s or resource/s.
